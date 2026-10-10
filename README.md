@@ -54,6 +54,10 @@ Or open an issue here with:
 - What happened
 - What you expected
 
+OR
+
+See [DIAGNOSTICS.md](DIAGNOSTICS.md) for the full list of status strings and their fixes.
+
 ---
 
 ## Credits
